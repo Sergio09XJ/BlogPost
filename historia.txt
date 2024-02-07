@@ -3,5 +3,6 @@ Esta es la historia de Freddy Vega
 Freddy Vega tiene 32 años y nació en Colombia
  
 Daniel Galdos es una persona open source, si en efecto, como lo leiste. 
+Ahora si cambio como daniel Galdos, commit definitivo master super master
 
 Mañana nos enfocaremos en su vida laboral
