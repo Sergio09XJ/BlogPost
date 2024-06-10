@@ -10,5 +10,6 @@ Un blog de apredizaje para Git y Github.
 * El flujo de trabajo del super poderoso GIthub
 * La verdadera importancia sobre las buenas practicas. 
 * Las multiples personalidades de Freddy. 
+* El arduo trabajo de los estudiantes.
 
 Recordatorio Final "**Este readme.md es un chiste, una parodia!!!**" Diseñado como ejemplo para valga la redundancía el Readme.md. 
